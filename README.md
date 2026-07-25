@@ -60,5 +60,5 @@
 ---
 
 ## 📂 Repository Contents
-- `visualization.ipynb` — Complete EDA, visualizations and analysis
-- `README.md` — This file
+- `visualization.ipynb` - Complete EDA, visualizations and analysis
+- `README.md` - This file
