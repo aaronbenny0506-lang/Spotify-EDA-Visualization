@@ -19,7 +19,7 @@
 ### 1. Distribution of Track Popularity (Histogram)
 ![Popularity Distribution](images/viz1_popularity_histogram.png)
 
-**Insight:** Popularity is heavily right-skewed, with a large spike near 0 (~20,000 tracks with almost no plays) — likely unreleased or obscure tracks. The rest of the distribution is fairly spread out with mild peaks around 20, 40, and 50 and a long tail toward 100, meaning very few tracks achieve true "hit" status.
+**Insight:** Popularity is heavily right-skewed, with a large spike near 0 (~20,000 tracks with almost no plays), likely unreleased or obscure tracks. The rest of the distribution is fairly spread out with mild peaks around 20, 40, and 50 and a long tail toward 100, meaning very few tracks achieve true "hit" status.
 
 ### 2. Top 10 Genres by Track Count (Bar Chart)
 ![Top Genres](images/viz2_top_genres_bar.png)
@@ -39,7 +39,7 @@
 ### 5. Correlation Heatmap of Numerical Features
 ![Correlation Heatmap](images/viz5_correlation_heatmap.png)
 
-**Insight:** Energy and loudness are strongly positively correlated (r = 0.76) — louder tracks tend to be more energetic. Energy and acousticness are strongly negatively correlated (r = -0.73), and loudness vs. acousticness is also strongly negative (r = -0.59). Danceability and valence show a moderate positive relationship (r = 0.48), meaning danceable tracks tend to sound happier.
+**Insight:** Energy and loudness are strongly positively correlated (r = 0.76), louder tracks tend to be more energetic. Energy and acousticness are strongly negatively correlated (r = -0.73), and loudness vs. acousticness is also strongly negative (r = -0.59). Danceability and valence show a moderate positive relationship (r = 0.48), meaning danceable tracks tend to sound happier.
 
 ### 6. Valence Distribution Across Top 5 Genres (Violin Plot)
 ![Valence by Genre](images/viz6_valence_violin.png)
